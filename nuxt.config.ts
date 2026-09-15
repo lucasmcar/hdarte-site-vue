@@ -9,5 +9,12 @@ export default defineNuxtConfig({
     '~/assets/css/footer.css',
     '~/assets/css/header.css',
     '~/assets/css/sobre.css',
-  ]
+  ],
+
+  runtimeConfig: {
+    public: {
+      supabaseUrl: '',
+      supabaseKey: ''
+    }
+  }
 })
