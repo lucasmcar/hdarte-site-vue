@@ -104,7 +104,7 @@ const handleSubmit = async () => {
 
                 <div>
                   <span>E-mail</span>
-                  <strong>contato@hdarte.com.br</strong>
+                  <strong>hdarte@gmail.com</strong>
                 </div>
               </div>
 
