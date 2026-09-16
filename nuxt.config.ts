@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     '~/assets/css/footer.css',
     '~/assets/css/header.css',
     '~/assets/css/sobre.css',
+    '~/assets/css/contato.css',
   ],
 
   runtimeConfig: {
